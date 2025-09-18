@@ -8,7 +8,9 @@
     1. add "type": "module" below "main" (for import syntax over require() syntax)
     2. add "start": "nodemon index.js" inside scripts (command for auto updation of server index.js file)
 
-
+* Commands to run:
+    - Frontend (react+vite): npm run dev
+    - Backend (Express Server): npm start
 
 
 ################### Frontend ##################
