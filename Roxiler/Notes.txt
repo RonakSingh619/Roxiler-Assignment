@@ -1,0 +1,20 @@
+################### Backend ##################
+
+* Installations:
+    1. npm init -y
+    2. npm install express mysql cors nodemon
+
+* Package.json changes:
+    1. add "type": "module" below "main" (for import syntax over require() syntax)
+    2. add "start": "nodemon index.js" inside scripts (command for auto updation of server index.js file)
+
+
+
+
+################### Frontend ##################
+
+color themes from wix:
+    creme: #f3f3e7
+    green (button): #1e3d20
+    green (text): #546553
+    bg: #d1dcce
